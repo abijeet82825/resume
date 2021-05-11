@@ -106,6 +106,10 @@ body {
 .resume .resume_left ul li .data {
   color: #b1eaff;
 }
+.resume .resume_left ul li .data >a{
+  color: #b1eaff;
+  text-decoration: none;
+}
 
 .resume .resume_left .resume_skills ul li {
   display: flex;
